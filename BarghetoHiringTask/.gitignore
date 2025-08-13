@@ -9,5 +9,5 @@ project.nuget.cache
 .vscode/
 *.user
 *.suo
-
+*.vsidx
 *.db
