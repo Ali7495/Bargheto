@@ -1,0 +1,6 @@
+@BarghetoHiringTask_HostAddress = http://localhost:5038
+
+GET {{BarghetoHiringTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
