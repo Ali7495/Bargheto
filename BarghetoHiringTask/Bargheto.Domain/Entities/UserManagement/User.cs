@@ -1,11 +1,12 @@
-﻿using Bargheto.Domain.ValurObjects;
+﻿using Bargheto.Domain.Entities.Tickets;
+using Bargheto.Domain.ValurObjects;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bargheto.Domain.Entities
+namespace Bargheto.Domain.Entities.UserManagement
 {
     public sealed class User : BaseEntity
     {

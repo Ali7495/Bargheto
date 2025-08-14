@@ -4,16 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bargheto.Domain.Entities
+namespace Bargheto.Domain.Entities.Tickets
 {
-    public sealed class TicketStatus
+    public sealed class TicketPriority
     {
-        public TicketStatus(int id, string name)
-        {
-            Id = id;
-            Name = name;
-        }
-
         public int Id { get; set; }
         public string Name { get; set; }
 

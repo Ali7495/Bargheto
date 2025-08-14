@@ -1,4 +1,4 @@
-﻿using Bargheto.Domain.Entities;
+﻿using Bargheto.Domain.Entities.Tickets;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using System;

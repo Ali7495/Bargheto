@@ -1,5 +1,7 @@
 ﻿using Bargheto.Application.Common.Enums;
 using Bargheto.Domain.Entities;
+using Bargheto.Domain.Entities.Tickets;
+using Bargheto.Domain.Entities.UserManagement;
 using Bargheto.Infrastructure.Configurations;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -53,12 +55,20 @@ namespace Bargheto.Infrastructure.Data
 
         public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
         {
+            ApplyAudit();
+
+            return base.SaveChangesAsync(cancellationToken);
+        }
+
+        private void ApplyAudit()
+        {
             DateTime now = DateTime.Now;
 
             foreach (var entity in ChangeTracker.Entries<BaseEntity>())
             {
                 if (entity.State == EntityState.Added)
                 {
+                    entity.Entity.IsDelete = false;
                     entity.Entity.CreatedAt = now;
                 }
                 if (entity.State == EntityState.Modified)
@@ -66,8 +76,6 @@ namespace Bargheto.Infrastructure.Data
                     entity.Entity.UpdatedAt = now;
                 }
             }
-
-            return base.SaveChangesAsync(cancellationToken);
         }
     }
 }

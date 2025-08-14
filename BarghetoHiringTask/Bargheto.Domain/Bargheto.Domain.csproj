@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Interfaces\Tickets\" />
+    <Folder Include="Interfaces\UserManagement\" />
+  </ItemGroup>
+
 </Project>

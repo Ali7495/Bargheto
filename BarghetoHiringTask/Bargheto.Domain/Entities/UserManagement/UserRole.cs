@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bargheto.Domain.Entities
+namespace Bargheto.Domain.Entities.UserManagement
 {
     public sealed class UserRole
     {

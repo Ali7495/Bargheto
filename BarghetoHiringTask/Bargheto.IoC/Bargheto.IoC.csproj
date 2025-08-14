@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Bargheto.Application\Bargheto.Application.csproj" />
+    <ProjectReference Include="..\Bargheto.Infrastructure\Bargheto.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Bargheto.Domain.Entities.UserManagement;
 
-namespace Bargheto.Domain.Entities
+namespace Bargheto.Domain.Entities.Tickets
 {
     public sealed class Ticket : BaseEntity
     {
