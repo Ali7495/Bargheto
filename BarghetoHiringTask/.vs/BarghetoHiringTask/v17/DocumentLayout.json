@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{601E2EE3-56BD-4C2A-96F8-80D0EBC0A4D4}|Bargheto.Application\\Bargheto.Application.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.application\\services\\implementations\\usermanagementservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601E2EE3-56BD-4C2A-96F8-80D0EBC0A4D4}|Bargheto.Application\\Bargheto.Application.csproj|solutionrelative:bargheto.application\\services\\implementations\\usermanagementservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345A6A1A-6B0A-46EB-8B5C-F85EB09AACAF}|Bargheto.IoC\\Bargheto.IoC.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345A6A1A-6B0A-46EB-8B5C-F85EB09AACAF}|Bargheto.IoC\\Bargheto.IoC.csproj|solutionrelative:bargheto.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA7FB2-778D-4426-8C93-67FBC6A9ABD2}|Bargheto.Infrastructure\\Bargheto.Infrastructure.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.infrastructure\\data\\barghetodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA7FB2-778D-4426-8C93-67FBC6A9ABD2}|Bargheto.Infrastructure\\Bargheto.Infrastructure.csproj|solutionrelative:bargheto.infrastructure\\data\\barghetodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{544BECF7-8407-4114-B48A-59E7026FF10D}|Bargheto.Presentation\\Bargheto.Presentation.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{544BECF7-8407-4114-B48A-59E7026FF10D}|Bargheto.Presentation\\Bargheto.Presentation.csproj|solutionrelative:bargheto.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A19DF0AB-DEAD-407B-926B-3C6AB3992EA9}|Bargheto.Domain\\Bargheto.Domain.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.domain\\valurobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A19DF0AB-DEAD-407B-926B-3C6AB3992EA9}|Bargheto.Domain\\Bargheto.Domain.csproj|solutionrelative:bargheto.domain\\valurobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{544BECF7-8407-4114-B48A-59E7026FF10D}|Bargheto.Presentation\\Bargheto.Presentation.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544BECF7-8407-4114-B48A-59E7026FF10D}|Bargheto.Presentation\\Bargheto.Presentation.csproj|solutionrelative:bargheto.presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{601E2EE3-56BD-4C2A-96F8-80D0EBC0A4D4}|Bargheto.Application\\Bargheto.Application.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.application\\services\\interfaces\\iusermanagementservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{601E2EE3-56BD-4C2A-96F8-80D0EBC0A4D4}|Bargheto.Application\\Bargheto.Application.csproj|solutionrelative:bargheto.application\\services\\interfaces\\iusermanagementservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{601E2EE3-56BD-4C2A-96F8-80D0EBC0A4D4}|Bargheto.Application\\Bargheto.Application.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.application\\common\\validation\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601E2EE3-56BD-4C2A-96F8-80D0EBC0A4D4}|Bargheto.Application\\Bargheto.Application.csproj|solutionrelative:bargheto.application\\common\\validation\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00CA7FB2-778D-4426-8C93-67FBC6A9ABD2}|Bargheto.Infrastructure\\Bargheto.Infrastructure.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.infrastructure\\repositories\\usermanagement\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00CA7FB2-778D-4426-8C93-67FBC6A9ABD2}|Bargheto.Infrastructure\\Bargheto.Infrastructure.csproj|solutionrelative:bargheto.infrastructure\\repositories\\usermanagement\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{00CA7FB2-778D-4426-8C93-67FBC6A9ABD2}|Bargheto.Infrastructure\\Bargheto.Infrastructure.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.infrastructure\\configurations\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA7FB2-778D-4426-8C93-67FBC6A9ABD2}|Bargheto.Infrastructure\\Bargheto.Infrastructure.csproj|solutionrelative:bargheto.infrastructure\\configurations\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19DF0AB-DEAD-407B-926B-3C6AB3992EA9}|Bargheto.Domain\\Bargheto.Domain.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.domain\\valurobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19DF0AB-DEAD-407B-926B-3C6AB3992EA9}|Bargheto.Domain\\Bargheto.Domain.csproj|solutionrelative:bargheto.domain\\valurobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A19DF0AB-DEAD-407B-926B-3C6AB3992EA9}|Bargheto.Domain\\Bargheto.Domain.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.domain\\interfaces\\repositories\\usermanagement\\iuserreopsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A19DF0AB-DEAD-407B-926B-3C6AB3992EA9}|Bargheto.Domain\\Bargheto.Domain.csproj|solutionrelative:bargheto.domain\\interfaces\\repositories\\usermanagement\\iuserreopsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A19DF0AB-DEAD-407B-926B-3C6AB3992EA9}|Bargheto.Domain\\Bargheto.Domain.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A19DF0AB-DEAD-407B-926B-3C6AB3992EA9}|Bargheto.Domain\\Bargheto.Domain.csproj|solutionrelative:bargheto.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00CA7FB2-778D-4426-8C93-67FBC6A9ABD2}|Bargheto.Infrastructure\\Bargheto.Infrastructure.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.infrastructure\\unitofworkpattern\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00CA7FB2-778D-4426-8C93-67FBC6A9ABD2}|Bargheto.Infrastructure\\Bargheto.Infrastructure.csproj|solutionrelative:bargheto.infrastructure\\unitofworkpattern\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{601E2EE3-56BD-4C2A-96F8-80D0EBC0A4D4}|Bargheto.Application\\Bargheto.Application.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.application\\common\\unitofworkpattern\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{601E2EE3-56BD-4C2A-96F8-80D0EBC0A4D4}|Bargheto.Application\\Bargheto.Application.csproj|solutionrelative:bargheto.application\\common\\unitofworkpattern\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00CA7FB2-778D-4426-8C93-67FBC6A9ABD2}|Bargheto.Infrastructure\\Bargheto.Infrastructure.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.infrastructure\\repositories\\usermanagement\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00CA7FB2-778D-4426-8C93-67FBC6A9ABD2}|Bargheto.Infrastructure\\Bargheto.Infrastructure.csproj|solutionrelative:bargheto.infrastructure\\repositories\\usermanagement\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A19DF0AB-DEAD-407B-926B-3C6AB3992EA9}|Bargheto.Domain\\Bargheto.Domain.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.domain\\interfaces\\repositories\\usermanagement\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A19DF0AB-DEAD-407B-926B-3C6AB3992EA9}|Bargheto.Domain\\Bargheto.Domain.csproj|solutionrelative:bargheto.domain\\interfaces\\repositories\\usermanagement\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00CA7FB2-778D-4426-8C93-67FBC6A9ABD2}|Bargheto.Infrastructure\\Bargheto.Infrastructure.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,24 +51,20 @@
       "RelativeMoniker": "D:0:0:{A19DF0AB-DEAD-407B-926B-3C6AB3992EA9}|Bargheto.Domain\\Bargheto.Domain.csproj|solutionrelative:bargheto.domain\\interfaces\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00CA7FB2-778D-4426-8C93-67FBC6A9ABD2}|Bargheto.Infrastructure\\Bargheto.Infrastructure.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.infrastructure\\data\\barghetodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00CA7FB2-778D-4426-8C93-67FBC6A9ABD2}|Bargheto.Infrastructure\\Bargheto.Infrastructure.csproj|solutionrelative:bargheto.infrastructure\\data\\barghetodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A19DF0AB-DEAD-407B-926B-3C6AB3992EA9}|Bargheto.Domain\\Bargheto.Domain.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.domain\\entities\\usermanagement\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A19DF0AB-DEAD-407B-926B-3C6AB3992EA9}|Bargheto.Domain\\Bargheto.Domain.csproj|solutionrelative:bargheto.domain\\entities\\usermanagement\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{00CA7FB2-778D-4426-8C93-67FBC6A9ABD2}|Bargheto.Infrastructure\\Bargheto.Infrastructure.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.infrastructure\\jwt\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA7FB2-778D-4426-8C93-67FBC6A9ABD2}|Bargheto.Infrastructure\\Bargheto.Infrastructure.csproj|solutionrelative:bargheto.infrastructure\\jwt\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19DF0AB-DEAD-407B-926B-3C6AB3992EA9}|Bargheto.Domain\\Bargheto.Domain.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.domain\\interfaces\\repositories\\usermanagement\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19DF0AB-DEAD-407B-926B-3C6AB3992EA9}|Bargheto.Domain\\Bargheto.Domain.csproj|solutionrelative:bargheto.domain\\interfaces\\repositories\\usermanagement\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A19DF0AB-DEAD-407B-926B-3C6AB3992EA9}|Bargheto.Domain\\Bargheto.Domain.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.domain\\entities\\tickets\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A19DF0AB-DEAD-407B-926B-3C6AB3992EA9}|Bargheto.Domain\\Bargheto.Domain.csproj|solutionrelative:bargheto.domain\\entities\\tickets\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{544BECF7-8407-4114-B48A-59E7026FF10D}|Bargheto.Presentation\\Bargheto.Presentation.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{544BECF7-8407-4114-B48A-59E7026FF10D}|Bargheto.Presentation\\Bargheto.Presentation.csproj|solutionrelative:bargheto.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A19DF0AB-DEAD-407B-926B-3C6AB3992EA9}|Bargheto.Domain\\Bargheto.Domain.csproj|e:\\workshop\\hiringtasks\\bargheto\\barghetohiringtask\\bargheto.domain\\valurobjects\\hashedpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A19DF0AB-DEAD-407B-926B-3C6AB3992EA9}|Bargheto.Domain\\Bargheto.Domain.csproj|solutionrelative:bargheto.domain\\valurobjects\\hashedpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,123 +74,114 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IUserManagementServices.cs",
-              "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Application\\Services\\Interfaces\\IUserManagementServices.cs",
-              "RelativeDocumentMoniker": "Bargheto.Application\\Services\\Interfaces\\IUserManagementServices.cs",
-              "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Application\\Services\\Interfaces\\IUserManagementServices.cs",
-              "RelativeToolTip": "Bargheto.Application\\Services\\Interfaces\\IUserManagementServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T10:59:27.582Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Infrastructure\\UnitOfWorkPattern\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Bargheto.Infrastructure\\UnitOfWorkPattern\\UnitOfWork.cs",
-              "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Infrastructure\\UnitOfWorkPattern\\UnitOfWork.cs",
-              "RelativeToolTip": "Bargheto.Infrastructure\\UnitOfWorkPattern\\UnitOfWork.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACwAAAAsAAAA",
+              "DocumentIndex": 5,
+              "Title": "UserValidator.cs",
+              "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Application\\Common\\Validation\\UserValidator.cs",
+              "RelativeDocumentMoniker": "Bargheto.Application\\Common\\Validation\\UserValidator.cs",
+              "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Application\\Common\\Validation\\UserValidator.cs",
+              "RelativeToolTip": "Bargheto.Application\\Common\\Validation\\UserValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T10:34:49.509Z",
+              "WhenOpened": "2025-08-14T22:09:20.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Application\\Common\\UnitOfWorkPattern\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Bargheto.Application\\Common\\UnitOfWorkPattern\\IUnitOfWork.cs",
-              "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Application\\Common\\UnitOfWorkPattern\\IUnitOfWork.cs",
-              "RelativeToolTip": "Bargheto.Application\\Common\\UnitOfWorkPattern\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Title": "UserConfig.cs",
+              "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Infrastructure\\Configurations\\UserConfig.cs",
+              "RelativeDocumentMoniker": "Bargheto.Infrastructure\\Configurations\\UserConfig.cs",
+              "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Infrastructure\\Configurations\\UserConfig.cs",
+              "RelativeToolTip": "Bargheto.Infrastructure\\Configurations\\UserConfig.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwB4AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T10:32:30.736Z",
+              "WhenOpened": "2025-08-14T22:05:19.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RoleRepository.cs",
-              "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Infrastructure\\Repositories\\UserManagement\\RoleRepository.cs",
-              "RelativeDocumentMoniker": "Bargheto.Infrastructure\\Repositories\\UserManagement\\RoleRepository.cs",
-              "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Infrastructure\\Repositories\\UserManagement\\RoleRepository.cs",
-              "RelativeToolTip": "Bargheto.Infrastructure\\Repositories\\UserManagement\\RoleRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "DocumentIndex": 10,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Bargheto.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Bargheto.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAcwEoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T10:26:58.24Z",
+              "WhenOpened": "2025-08-14T21:57:48.413Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.IoC\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Bargheto.IoC\\DependencyInjection.cs",
+              "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.IoC\\DependencyInjection.cs",
+              "RelativeToolTip": "Bargheto.IoC\\DependencyInjection.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADgvxwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T21:55:12.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserManagementServices.cs",
+              "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Application\\Services\\Implementations\\UserManagementServices.cs",
+              "RelativeDocumentMoniker": "Bargheto.Application\\Services\\Implementations\\UserManagementServices.cs",
+              "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Application\\Services\\Implementations\\UserManagementServices.cs",
+              "RelativeToolTip": "Bargheto.Application\\Services\\Implementations\\UserManagementServices.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T15:03:36.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Infrastructure\\Repositories\\UserManagement\\UserRepository.cs",
               "RelativeDocumentMoniker": "Bargheto.Infrastructure\\Repositories\\UserManagement\\UserRepository.cs",
               "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Infrastructure\\Repositories\\UserManagement\\UserRepository.cs",
               "RelativeToolTip": "Bargheto.Infrastructure\\Repositories\\UserManagement\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T10:26:17.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "IRoleRepository.cs",
               "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Domain\\Interfaces\\Repositories\\UserManagement\\IRoleRepository.cs",
               "RelativeDocumentMoniker": "Bargheto.Domain\\Interfaces\\Repositories\\UserManagement\\IRoleRepository.cs",
               "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Domain\\Interfaces\\Repositories\\UserManagement\\IRoleRepository.cs",
               "RelativeToolTip": "Bargheto.Domain\\Interfaces\\Repositories\\UserManagement\\IRoleRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T10:04:54.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "IUserReopsitory.cs",
               "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Domain\\Interfaces\\Repositories\\UserManagement\\IUserReopsitory.cs",
               "RelativeDocumentMoniker": "Bargheto.Domain\\Interfaces\\Repositories\\UserManagement\\IUserReopsitory.cs",
               "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Domain\\Interfaces\\Repositories\\UserManagement\\IUserReopsitory.cs",
               "RelativeToolTip": "Bargheto.Domain\\Interfaces\\Repositories\\UserManagement\\IUserReopsitory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T10:04:03.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Role.cs",
-              "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Domain\\Entities\\UserManagement\\Role.cs",
-              "RelativeDocumentMoniker": "Bargheto.Domain\\Entities\\UserManagement\\Role.cs",
-              "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Domain\\Entities\\UserManagement\\Role.cs",
-              "RelativeToolTip": "Bargheto.Domain\\Entities\\UserManagement\\Role.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T09:47:19.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Domain\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Bargheto.Domain\\Entities\\BaseEntity.cs",
-              "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Domain\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "Bargheto.Domain\\Entities\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T09:46:56.902Z",
               "EditorCaption": ""
             },
             {
@@ -205,83 +192,92 @@
               "RelativeDocumentMoniker": "Bargheto.Domain\\Interfaces\\Repositories\\IRepository.cs",
               "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Domain\\Interfaces\\Repositories\\IRepository.cs",
               "RelativeToolTip": "Bargheto.Domain\\Interfaces\\Repositories\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T09:34:53.456Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Infrastructure\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "Bargheto.Infrastructure\\Repositories\\Repository.cs",
-              "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Infrastructure\\Repositories\\Repository.cs",
-              "RelativeToolTip": "Bargheto.Infrastructure\\Repositories\\Repository.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAwwEwAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Presentation\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Bargheto.Presentation\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Presentation\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Bargheto.Presentation\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T09:25:57.153Z",
+              "WhenOpened": "2025-08-14T21:43:14.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "Bargheto.Presentation\\Program.cs",
-              "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Presentation\\Program.cs",
-              "RelativeToolTip": "Bargheto.Presentation\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "BarghetoDbContext.cs",
+              "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Infrastructure\\Data\\BarghetoDbContext.cs",
+              "RelativeDocumentMoniker": "Bargheto.Infrastructure\\Data\\BarghetoDbContext.cs",
+              "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Infrastructure\\Data\\BarghetoDbContext.cs",
+              "RelativeToolTip": "Bargheto.Infrastructure\\Data\\BarghetoDbContext.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwC8AAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T16:55:59.158Z",
+              "WhenOpened": "2025-08-14T21:18:45.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Email.cs",
               "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Domain\\ValurObjects\\Email.cs",
               "RelativeDocumentMoniker": "Bargheto.Domain\\ValurObjects\\Email.cs",
               "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Domain\\ValurObjects\\Email.cs",
               "RelativeToolTip": "Bargheto.Domain\\ValurObjects\\Email.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAZAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-13T15:35:16.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Presentation\\appsettings.json",
-              "RelativeDocumentMoniker": "Bargheto.Presentation\\appsettings.json",
-              "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Presentation\\appsettings.json",
-              "RelativeToolTip": "Bargheto.Presentation\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-13T16:55:26.206Z",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Bargheto.Presentation\\Program.cs",
+              "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Presentation\\Program.cs",
+              "RelativeToolTip": "Bargheto.Presentation\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T16:55:59.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "BarghetoDbContext.cs",
-              "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Infrastructure\\Data\\BarghetoDbContext.cs",
-              "RelativeDocumentMoniker": "Bargheto.Infrastructure\\Data\\BarghetoDbContext.cs",
-              "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Infrastructure\\Data\\BarghetoDbContext.cs",
-              "RelativeToolTip": "Bargheto.Infrastructure\\Data\\BarghetoDbContext.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAuwDkAAAAZAAAA",
+              "Title": "Role.cs",
+              "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Domain\\Entities\\UserManagement\\Role.cs",
+              "RelativeDocumentMoniker": "Bargheto.Domain\\Entities\\UserManagement\\Role.cs",
+              "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Domain\\Entities\\UserManagement\\Role.cs",
+              "RelativeToolTip": "Bargheto.Domain\\Entities\\UserManagement\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T16:11:20.515Z",
+              "WhenOpened": "2025-08-14T09:47:19.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Infrastructure\\JWT\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Bargheto.Infrastructure\\JWT\\JwtTokenGenerator.cs",
+              "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Infrastructure\\JWT\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "Bargheto.Infrastructure\\JWT\\JwtTokenGenerator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T20:55:53.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Ticket.cs",
               "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Domain\\Entities\\Tickets\\Ticket.cs",
               "RelativeDocumentMoniker": "Bargheto.Domain\\Entities\\Tickets\\Ticket.cs",
@@ -290,19 +286,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-13T16:04:20.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "HashedPassword.cs",
-              "DocumentMoniker": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Domain\\ValurObjects\\HashedPassword.cs",
-              "RelativeDocumentMoniker": "Bargheto.Domain\\ValurObjects\\HashedPassword.cs",
-              "ToolTip": "E:\\WorkShop\\HiringTasks\\Bargheto\\BarghetoHiringTask\\Bargheto.Domain\\ValurObjects\\HashedPassword.cs",
-              "RelativeToolTip": "Bargheto.Domain\\ValurObjects\\HashedPassword.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T15:46:53.274Z",
               "EditorCaption": ""
             }
           ]

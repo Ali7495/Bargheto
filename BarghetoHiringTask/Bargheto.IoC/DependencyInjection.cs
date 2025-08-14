@@ -9,6 +9,8 @@ using System.Text;
 using System.Threading.Tasks;
 using Bargheto.Application.Common.Validation;
 using FluentValidation;
+using Bargheto.Application.Services.Interfaces;
+using Bargheto.Application.Services.Implementations;
 
 namespace Bargheto.IoC
 {
@@ -26,6 +28,12 @@ namespace Bargheto.IoC
 
             services.AddAutoMapper(conf=> conf.AddProfile<MapperProfile>());
             services.AddValidatorsFromAssembly(typeof(UserValidator).Assembly);
+
+            #endregion
+
+            #region Services
+
+            services.AddScoped<IUserManagementServices, UserManagementServices>();
 
             #endregion
         }

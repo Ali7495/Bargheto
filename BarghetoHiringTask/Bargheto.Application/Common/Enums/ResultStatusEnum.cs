@@ -9,6 +9,8 @@ namespace Bargheto.Application.Common.Enums
     public enum ResultStatusEnum
     {
         Success = 0,
-        Failed = 1
+        Failed = 1,
+        Exists = 2,
+        InvalidInput = 3,
     }
 }

@@ -6,12 +6,9 @@ using System.Threading.Tasks;
 
 namespace Bargheto.Application.DataTransferObjects.UserManagement
 {
-    public class UserInputDto
+    public class LoginDto
     {
-        public Guid RoleId { get; set; }
-        public string FullName { get; set; }
         public string Email { get; set; }
         public string Password { get; set; }
-        public string ConfirmPassword { get; set; }
     }
 }

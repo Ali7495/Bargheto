@@ -21,7 +21,7 @@ namespace Bargheto.Infrastructure.JWT
             _settings = options.Value;
         }
 
-        public string GenerateToken(User user)
+        public string GenerateToken(User user, List<string> roles, out DateTime expireTime)
         {
             SymmetricSecurityKey key = new(Encoding.UTF8.GetBytes(_settings.Secret));
             SigningCredentials credentials = new(key, SecurityAlgorithms.HmacSha256);
@@ -29,15 +29,21 @@ namespace Bargheto.Infrastructure.JWT
             List<Claim> claims = new()
             {
                 new Claim(JwtRegisteredClaimNames.Sub,user.Id.ToString()),
-                new Claim("email", user.Email.Value)
+                new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
+                new Claim(ClaimTypes.Email, user.Email.Value)
             };
+
+            claims.AddRange(roles.Select(r => new Claim(ClaimTypes.Role, r)));
+
+            expireTime = DateTime.Now.AddMinutes(_settings.ExpirationMinutes);
 
             JwtSecurityToken token = new
                 (
                 issuer: _settings.Issuer,
                 audience: _settings.Audience,
                 claims: claims,
-                expires: DateTime.Now.AddMinutes(_settings.ExpirationMinutes),
+                notBefore: DateTime.Now,
+                expires: expireTime,
                 signingCredentials: credentials
                 );
 

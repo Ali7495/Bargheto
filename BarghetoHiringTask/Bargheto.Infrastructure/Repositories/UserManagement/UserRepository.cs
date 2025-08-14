@@ -1,6 +1,7 @@
 ﻿using Bargheto.Domain.Entities.UserManagement;
 using Bargheto.Domain.Interfaces.Repositories.UserManagement;
 using Bargheto.Infrastructure.Data;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +14,14 @@ namespace Bargheto.Infrastructure.Repositories.UserManagement
     {
         public UserRepository(BarghetoDbContext dbContext) : base(dbContext)
         {
+        }
+
+        public async Task<User> GetByEmailAsync(string email, CancellationToken cancellationToken)
+        {
+            return await Entities.AsNoTracking()
+                .Include(u=> u.UserRoles)
+                .ThenInclude(ur=> ur.Role)
+                .FirstOrDefaultAsync(u => u.Email.Value == email, cancellationToken);
         }
     }
 }

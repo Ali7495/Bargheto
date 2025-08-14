@@ -9,6 +9,6 @@ namespace Bargheto.Application.Common.JWT
 {
     public interface IJwtTokenGenerator
     {
-        string GenerateToken(User user);
+        string GenerateToken(User user, List<string> roles, out DateTime expireTime);
     }
 }

@@ -9,5 +9,6 @@ namespace Bargheto.Domain.Interfaces.Repositories.UserManagement
 {
     public interface IUserReopsitory : IRepository<User>
     {
+        Task<User> GetByEmailAsync(string email, CancellationToken cancellationToken);
     }
 }

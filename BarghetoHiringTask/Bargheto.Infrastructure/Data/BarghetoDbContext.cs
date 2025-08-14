@@ -43,12 +43,16 @@ namespace Bargheto.Infrastructure.Data
                 new TicketStatus((int)TicketPriorityEnum.High, "High")
                 );
 
-            Guid adminRoleId = Guid.NewGuid();
-            Guid employeeRoleId = Guid.NewGuid();
+            // hard code data for not being dynamic in DbContext
+
+            var adminRoleId = Guid.Parse("aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa");
+            var employeeRoleId = Guid.Parse("bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb");
+
+            var createdDate = new DateTime(2025, 01, 01, 0, 0, 0, DateTimeKind.Utc);
 
             modelBuilder.Entity<Role>().HasData(
-            new { Id = adminRoleId, CreatedAt = DateTime.Now, Name = "Admin" },
-            new { Id = employeeRoleId, CreatedAt = DateTime.UtcNow, Name = "Employee", }
+            new { Id = adminRoleId, CreatedAt = createdDate, Name = "Admin", IsDeleted = false },
+            new { Id = employeeRoleId, CreatedAt = createdDate, Name = "Employee", IsDeleted = false }
             );
 
         }
@@ -68,7 +72,7 @@ namespace Bargheto.Infrastructure.Data
             {
                 if (entity.State == EntityState.Added)
                 {
-                    entity.Entity.IsDelete = false;
+                    entity.Entity.IsDeleted = false;
                     entity.Entity.CreatedAt = now;
                 }
                 if (entity.State == EntityState.Modified)
