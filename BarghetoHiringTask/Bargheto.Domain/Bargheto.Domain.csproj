@@ -7,8 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Interfaces\Tickets\" />
-    <Folder Include="Interfaces\UserManagement\" />
+    <Folder Include="Interfaces\Repositories\Tickets\" />
   </ItemGroup>
 
 </Project>

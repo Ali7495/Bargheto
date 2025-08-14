@@ -20,4 +20,8 @@
     <ProjectReference Include="..\Bargheto.Domain\Bargheto.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Repositories\Tickets\" />
+  </ItemGroup>
+
 </Project>
