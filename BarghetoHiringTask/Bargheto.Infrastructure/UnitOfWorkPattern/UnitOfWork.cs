@@ -1,6 +1,8 @@
 ﻿using Bargheto.Application.Common.UnitOfWorkPattern;
+using Bargheto.Domain.Interfaces.Repositories.Tickets;
 using Bargheto.Domain.Interfaces.Repositories.UserManagement;
 using Bargheto.Infrastructure.Data;
+using Bargheto.Infrastructure.Repositories.Tickets;
 using Bargheto.Infrastructure.Repositories.UserManagement;
 using System;
 using System.Collections.Generic;
@@ -23,6 +25,14 @@ namespace Bargheto.Infrastructure.UnitOfWorkPattern
 
         #endregion
 
+        #region Ticket
+
+        public ITicketRepository TicketRepository { get; private set; }
+        public ITicketStatusRepository TicketStatusRepository { get; private set; }
+
+
+        #endregion
+
         public UnitOfWork(BarghetoDbContext dbContext)
         {
             _dbContext = dbContext;
@@ -31,6 +41,13 @@ namespace Bargheto.Infrastructure.UnitOfWorkPattern
 
             UserReopsitory = new UserRepository(dbContext);
             RoleRepository = new RoleRepository(dbContext);
+
+            #endregion
+
+            #region Ticket
+
+            TicketRepository = new TicketRepository(dbContext);
+            TicketStatusRepository = new TicketStatusRepository(dbContext);
 
             #endregion
         }

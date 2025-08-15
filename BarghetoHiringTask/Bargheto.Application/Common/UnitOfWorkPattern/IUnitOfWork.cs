@@ -1,4 +1,5 @@
-﻿using Bargheto.Domain.Interfaces.Repositories.UserManagement;
+﻿using Bargheto.Domain.Interfaces.Repositories.Tickets;
+using Bargheto.Domain.Interfaces.Repositories.UserManagement;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,6 +16,16 @@ namespace Bargheto.Application.Common.UnitOfWorkPattern
         IRoleRepository RoleRepository { get; }
 
         #endregion
+
+
+        #region Ticket
+
+        ITicketRepository TicketRepository { get; }
+        ITicketStatusRepository TicketStatusRepository { get; }
+
+
+        #endregion
+
 
         Task CompleteTaskAsync(CancellationToken cancellationToken);
         Task DisposeAsync();

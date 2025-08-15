@@ -55,6 +55,14 @@ namespace Bargheto.Infrastructure.Data
             new { Id = employeeRoleId, CreatedAt = createdDate, Name = "Employee", IsDeleted = false }
             );
 
+
+            #region QueryFilters
+
+            modelBuilder.Entity<User>().HasQueryFilter(u=> u.IsDeleted == false);
+            modelBuilder.Entity<Role>().HasQueryFilter(u=> u.IsDeleted == false);
+            modelBuilder.Entity<Ticket>().HasQueryFilter(u=> u.IsDeleted == false);
+
+            #endregion
         }
 
         public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)

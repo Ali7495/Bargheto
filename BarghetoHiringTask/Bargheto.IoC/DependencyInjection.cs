@@ -34,6 +34,7 @@ namespace Bargheto.IoC
             #region Services
 
             services.AddScoped<IUserManagementServices, UserManagementServices>();
+            services.AddScoped<ITicketServices, TicketServices>();
 
             #endregion
         }

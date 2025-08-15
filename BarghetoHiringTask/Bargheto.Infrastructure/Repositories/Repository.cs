@@ -59,7 +59,7 @@ namespace Bargheto.Infrastructure.Repositories
             {
                 return await Entities.ToListAsync(cancellationToken);
             }
-        }
+        } 
 
         public async Task<TEntity> GetByIdAsync(Guid id, CancellationToken cancellationToken = default)
         {
